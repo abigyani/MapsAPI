@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SriniWebAssignment</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_signOut">Sign Out</string>
+    <string name="title_activity_peopl__form">Peopl_Form</string>
+
+    <array name="category">
+
+        <item>Category 1</item>
+        <item>Category 2</item>
+        <item>Category 3</item>
+        <item>Category 4</item>
+
+    </array>
+
+    <array name="availability">
+
+        <item>Availability 1</item>
+        <item>Availability 2</item>
+        <item>Availability 3</item>
+        <item>Availability 4</item>
+
+    </array>
+
+    <string name="note" >
+
+        This is a test assignment done for www.srini-web-developer.in.
+        App uses firebase database for backend. Initially database is empty. Click on \'+\' icon on right bottom to add object.
+        Google Authentication is activated, so data will change across different email id used.
+
+    </string>
+
+    <string name="desc">
+
+       Database is currently empty. Click on \'+\' button on bottom right to add object.\n
+        After adding an object, it will appear on grid. Clicking it, will take you on new page in \'VIEW\' mode.
+        To \'EDIT\' or \'DELETE\', please \'LONG PRESS\' on the required item.
+        \nClick \'Ok\' to begin.
+
+    </string>
+
+</resources>
