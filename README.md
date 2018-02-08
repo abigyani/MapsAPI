@@ -1,4 +1,3 @@
-# SriniWebAssignment
+# Google Maps API
 
-Test Assignment developed for www.srini-web-developers.
-Simple Implementation of firebase.
+Implementation of Google Maps API. Marking and hosting of Real time location on Maps. Backend on Firebase.
